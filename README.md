@@ -5,7 +5,6 @@ Aplikasi Reservasi Restoran adalah aplikasi berbasis web yang digunakan untuk me
 
 Aplikasi ini dikembangkan sebagai tugas proyek mata kuliah dengan tujuan menerapkan penggunaan IDE, Version Control (Git), debugging, serta analisis performa aplikasi.
 
----
 
 ## Fitur Aplikasi
 - Menambahkan reservasi meja
@@ -14,7 +13,6 @@ Aplikasi ini dikembangkan sebagai tugas proyek mata kuliah dengan tujuan menerap
 - Menghapus reservasi
 - Penyimpanan data menggunakan Firebase
 
----
 
 ## Cara Menjalankan Aplikasi
 
@@ -44,14 +42,12 @@ npm run start
 
 5. Buka aplikasi di browser.
 
----
 
 ## Anggota Tim
 1. Muhammad Nurrohmad Mujahiddin
 2. Ulin Ni'matil Khamidiyah
 3. Rahmah Rizqina Mardlotillah
 
----
 
 ## Link Laporan
 Link laporan proyek:  
