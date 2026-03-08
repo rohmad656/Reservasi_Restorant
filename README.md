@@ -1,12 +1,12 @@
 # Aplikasi Reservasi Restoran
 
-## Deskripsi Aplikasi
+# Deskripsi Aplikasi
 Aplikasi Reservasi Restoran adalah aplikasi berbasis web yang digunakan untuk memudahkan pelanggan dalam melakukan pemesanan meja di restoran secara online. Aplikasi ini memungkinkan pengguna untuk melakukan reservasi tanpa harus datang langsung ke restoran.
 
 Aplikasi ini dikembangkan sebagai tugas proyek mata kuliah dengan tujuan menerapkan penggunaan IDE, Version Control (Git), debugging, serta analisis performa aplikasi.
 
 
-## Fitur Aplikasi
+# Fitur Aplikasi
 - Menambahkan reservasi meja
 - Melihat daftar reservasi
 - Mengedit data reservasi
@@ -14,7 +14,7 @@ Aplikasi ini dikembangkan sebagai tugas proyek mata kuliah dengan tujuan menerap
 - Penyimpanan data menggunakan Firebase
 
 
-## Cara Menjalankan Aplikasi
+# Cara Menjalankan Aplikasi
 
 1. Clone repository dari GitHub
 
@@ -43,12 +43,12 @@ npm run start
 5. Buka aplikasi di browser.
 
 
-## Anggota Tim
+# Anggota Tim
 1. Muhammad Nurrohmad Mujahiddin
 2. Ulin Ni'matil Khamidiyah
 3. Rahmah Rizqina Mardlotillah
 
 
-## Link Laporan
+# Link Laporan
 Link laporan proyek:  
 (isi dengan link Google Drive atau file laporan)
